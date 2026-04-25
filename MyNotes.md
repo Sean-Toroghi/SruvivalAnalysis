@@ -8,7 +8,7 @@
 - [**Module 3 — Semi-parametric & parametric models**](#m_3): The Cox proportional hazards model in depth — partial likelihood, the PH assumption, how to test and fix violations — plus Weibull, exponential, and AFT parametric families with full Python examples.
 - [**Module 4 — Tree-based ML**](#m_4): Random survival forests (how the log-rank splitting criterion and Nelson-Aalen leaf estimators work), gradient boosted survival (XGBoost AFT), regularized Cox (Lasso/Elastic Net), and survival SVM.
 - [**Module 5 — Deep learning**](#m_5): DeepSurv (neural Cox), DeepHit (discrete-time, competing risks, no PH assumption), RNN/LSTM models for time-varying covariates, and transformer-based SurvTRACE.
-- **Module 6 — Evaluation & deployment**](#m_6): C-index vs Uno's C, Brier score, calibration curves, SHAP for survival models, cross-validation strategy, and a production deployment checklist.
+- [**Module 6 — Evaluation & deployment**](#m_6): C-index vs Uno's C, Brier score, calibration curves, SHAP for survival models, cross-validation strategy, and a production deployment checklist.
 
 ---
 
