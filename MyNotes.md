@@ -3,9 +3,9 @@
 <h1>Survival analysis</h1>
 
 <a name = 'up'>Table of contents</a>
-- [**Module 1 — Foundations**: The core concepts every student must master first: what survival analysis is, the censoring problem (and why it can't be ignored), the three key mathematical functions S(t), h(t), H(t), and how the likelihood is constructed with censored data. The interactive Weibull explorer lets you see how different hazard shapes look.
+- [**Module 1 — Foundations**: The core concepts: what survival analysis is, the censoring problem (and why it can't be ignored), the three key mathematical functions S(t), h(t), H(t), and how the likelihood is constructed with censored data. The interactive Weibull explorer lets you see how different hazard shapes look.
 ](#m_1)
-- [With-clause (CTE)](#CTE)
+- **Module 2 — Non-parametric methods: **[Kaplan-Meier and Nelson-Aalen estimators, the log-rank test for group comparisons, and Python code using `lifelines`.](#CTE)
 - [Windows fucntion](#window)
 - [Optimizing SQL](#opt)
 - [Retrive/analyze data](#rad)
@@ -17,7 +17,7 @@
 
 
 
-**Module 2 — Non-parametric methods**: Kaplan-Meier and Nelson-Aalen estimators, the log-rank test for group comparisons, and Python code using `lifelines`.
+
 
 **Module 3 — Semi-parametric & parametric models**: The Cox proportional hazards model in depth — partial likelihood, the PH assumption, how to test and fix violations — plus Weibull, exponential, and AFT parametric families with full Python examples.
 
